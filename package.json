@@ -41,7 +41,7 @@
   "homepage": "https://github.com/react-navigation/react-navigation-native#readme",
   "dependencies": {
     "hoist-non-react-statics": "^3.3.2",
-    "react-native-safe-area-view": "http://192.168.65.200:2080/frontend/3rd-open-source/react-native-safe-area-view.git#e6da2855"
+    "react-native-safe-area-view": "li-zhongdeng/react-native-safe-area-view#ef26261"
   },
   "devDependencies": {
     "@expo/vector-icons": "^6.2.0",
